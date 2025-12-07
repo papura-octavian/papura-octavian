@@ -82,24 +82,6 @@ Command-line helper for **online sellers** that need to deal with marketplace fe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=papura-octavian&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=papura-octavian&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
 <p align="center">
   Always hacking on something new. Stay tuned 👀
 </p>
